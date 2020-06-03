@@ -1,1 +1,1 @@
-# Data-Structures-Implementation-in-C
+# Data-Structures-and-Fundamental-Algorithms
